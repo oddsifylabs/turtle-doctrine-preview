@@ -13,7 +13,7 @@
 
                     A Field Manual for Mathematical Sports Betting
 
-                              Version 2.0
+                              First Edition
 
   ╭────────────────────────────────────────────────────────────────────────╮
   │                                                                        │
